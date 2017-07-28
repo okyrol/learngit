@@ -1,5 +1,10 @@
 Git is a version control system
 Git is free software
 
+
 this is my second change the file
 trust yourself, maybe is hard, but this prove you are progressing
+
+where there is a where, there is a way
+you must trust yourself
+
