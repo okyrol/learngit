@@ -9,3 +9,5 @@ where there is a where, there is a way
 you must trust yourself
 
 you are the best one in the world
+
+add a line in the testGit.txt
